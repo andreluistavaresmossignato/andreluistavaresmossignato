@@ -1,4 +1,4 @@
-- 👋 Hi, I’m André Luís
+- 👋 Hi, I’m André Luís Tavares Mossignato
 - 👀 Estou sempre disposto a aprender cada vez mais
 - 🌱 Atualmente estou aprendendo JavaScript
 - 📫 Entre em contato em: andreluis.mossignato@gmail.com
