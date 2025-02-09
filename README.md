@@ -2,7 +2,7 @@
 - 👀 Estou sempre disposto a aprender cada vez mais
 - 🌱 Atualmente estou aprendendo JavaScript
 - 📫 Entre em contato em: andreluis.mossignato@gmail.com
-- 😄 Sou homem de 15 anos
+- 😄 Atualmente tenho 15 anos
 - ⚽ Amo jogar futebol e jogar jogos online
 
 <!---
