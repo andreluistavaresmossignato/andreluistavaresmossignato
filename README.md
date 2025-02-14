@@ -1,6 +1,6 @@
 - 👋 Hi, I’m André Luís Tavares Mossignato
 - 👀 Estou sempre disposto a aprender cada vez mais
-- 🌱 Atualmente estou aprendendo JavaScript, HTML e CSS
+- 🌱 Atualmente estou aprendendo JavaScript, HTML, CSS e Java
 - 📫 Entre em contato em: andreluis.mossignato@gmail.com
 - 😄 Atualmente tenho 15 anos
 - ⚽ Amo jogar futebol e jogar jogos online
