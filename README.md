@@ -2,8 +2,7 @@
 - 👀 Estou sempre disposto a aprender cada vez mais
 - 🌱 Atualmente estou aprendendo JavaScript, HTML, CSS, PHP e Java
 - 📫 Entre em contato em: andreluis.mossignato@gmail.com
-- 😄 Atualmente tenho 15 anos
-- ⚽ Amo jogar futebol e também jogos online
+- 😄 Atualmente tenho 16 anos
 
 <!---
 andreluistavaresmossignato/andreluistavaresmossignato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
