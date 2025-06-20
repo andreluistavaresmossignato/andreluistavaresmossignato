@@ -1,8 +1,8 @@
-- 👋 Hi, I’m André Luís Tavares Mossignato
-- 👀 Estou sempre disposto a aprender cada vez mais
-- 🌱 Atualmente estou aprendendo JavaScript, HTML, CSS, PHP e Java
-- 📫 Entre em contato em: andreluis.mossignato@gmail.com
-- 😄 Atualmente tenho 16 anos
+-  Hi, I’m André Luís Tavares Mossignato
+-  Estou sempre disposto a aprender cada vez mais
+-  Atualmente estou aprendendo JavaScript, HTML, CSS, PHP e Java
+-  Entre em contato em: andreluis.mossignato@gmail.com
+-  Atualmente tenho 16 anos
 
 <!---
 andreluistavaresmossignato/andreluistavaresmossignato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
