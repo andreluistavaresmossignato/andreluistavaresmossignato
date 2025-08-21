@@ -1,6 +1,6 @@
 -  Hi, I’m André Luís Tavares Mossignato
 -  Estou sempre disposto a aprender cada vez mais
--  Atualmente estou aprendendo JavaScript, HTML, CSS, PHP e Java
+-  Atualmente estou aprendendo PHP e Java
 -  Entre em contato em: andreluis.mossignato@gmail.com
 -  Atualmente tenho 16 anos
 
