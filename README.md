@@ -1,6 +1,6 @@
 -  Repositórios de André Luís Tavares Mossignato
 -  Estou sempre disposto a aprender cada vez mais
--  Atualmente estou aprendendo PHP e Java
+-  Atualmente estou aprendendo PHP, JavaScript e MySQL
 -  Entre em contato em: andreluis.mossignato@gmail.com
 -  Atualmente tenho 16 anos
 
